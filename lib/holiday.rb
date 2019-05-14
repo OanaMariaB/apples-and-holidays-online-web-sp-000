@@ -51,8 +51,8 @@ def all_holidays_with_bbq(holiday_hash)
           item.each do |supply|
             if supply.include?("BBQ")
           return answer << holiday
+            end
           end
-        end
         end
     end
 end
