@@ -53,9 +53,7 @@ data.each do |holiday, value|
       answer.push(holiday)
     end
   end
-end
-end	end
+  end
+end	
 answer
-
-
 end
