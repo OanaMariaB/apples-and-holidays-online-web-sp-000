@@ -34,7 +34,7 @@ def all_supplies_in_holidays(holiday_hash)
   #   Fourth Of July: Fireworks, BBQ
   # etc.
   holiday_supplies.each do |holiday, decorations|
-    return "#{holiday}, #{decorations}"
+    seasons.each do |atribute, data|
   end
 end
 
