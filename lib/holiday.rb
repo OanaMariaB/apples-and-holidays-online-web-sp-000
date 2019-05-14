@@ -54,6 +54,6 @@ data.each do |holiday, value|
     end
   end
   end
-end	
+end
 answer
 end
